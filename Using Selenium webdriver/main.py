@@ -6,7 +6,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-
 URL = "https://morsecode.world/international/translator.html"
 # create object of class Options and add add_experimental_option for keep the page open
 chrome_options = Options()
